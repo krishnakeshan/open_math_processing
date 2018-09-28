@@ -1,2 +1,2 @@
 # open_math_processing
-Software to recognise and process quadratic equations
+Open Math Processing is an Android library to recognise a quadratic equation from an image and output the roots to it.
